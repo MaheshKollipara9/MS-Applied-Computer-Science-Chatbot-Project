@@ -1,0 +1,54 @@
+"hello hi","hey there","hi there","hey","Hello","hi","hola","hyy" : "Hi! How are you doing?","Hello! How can I help you?","Good day! What can I do for you today?","Greetings! How can I assist?","Hello and welcome!","Hello, and thank you for reaching out!","Hello! How's your well-being?","Hi! How's your day treating you?","Greetings! How are you feeling?","Hi! How's everything on your end?","Hello! How are you?"
+
+"Tell me about the (Computer Science program / Course overview)." : Northwest Missouri State University's Master of Science in Applied Computer Science is a 16-month program that offers a hands-on, professional education in today's high demand areas.
+
+"How many Credit Hours are needed/required to complete/graduate MS in ACS course?" : "Thirty credit hours of graduate credits are required for completion of the M.S. in Applied Computer Science."
+
+"What is the Estimated Graduate Cost?","Tuition Fee for ACS Course?": "Total Graduate Cost for MS ACS in Northwest Missouri State University is $16,802.20", The overall expense for the ACS graduate program is $16,802.20.
+
+"Can you provide a list of courses taught by Ajay Bandi Professor?" : Generative AI, Mobile computing iOS, Patterns and frameworks, Advance Databases, Java, Big Data
+
+"Can you provide a list of courses taught by Mark Chai Professor?": 	Big Data, Graduate direct project, Java
+
+
+"Application deadline for MS ACS Course": The last day to apply for spring semester is November 1, The last day to apply for fall semester is June 15., The last day to apply for Summer semester is March 1
+
+"Does students get any scholarship in MS ACS? " : Any student who gets admitted to our ACS program would receive the $500 scholarship for the first semester. In any semester if you get a full graduate assistantship or 3/4th graduate assistantship or 1/2 graduate assistantship, your 100% or 75% or 50% of the tuition fee will be waived off, respectively.
+
+"What are the documents required for admission in MS ACS Course?" : The documents required for the admission process include:
+ 
+	·         Official English proficiency test scores (TOEFL, IELTS, PTE, DUOLINGO)
+ 
+	·         Bank statement and Statement of support.
+ 
+	·         Copy of your passport
+ 
+	·         Official transcripts from all colleges and universities you have attended or are now attending for undergraduate and graduate coursework.
+
+"What are the choices for electives in the MS-ACS program?" : The MS-ACS program provides a selection of electives, including Analysis of Algorithms, Big Data, Data Visualization, Web Mining, and Machine Learning. Additionally, if a student chooses Mobile Computing: iOS as their required course, they have the option to take Mobile Computing: Android as an elective.     Note: Elective courses are subjected to change every semester.
+
+"What the prerequisite requirements for joining the ACS course?" : If you haven't completed a \"Database Systems\" course during your undergraduate studies, it's a requirement for enrollment.
+
+"What is the Required GPA for admission in ACS?" : A minimum GPA of 3.0 is required.
+
+"What is the Process in OPT application?" : Listed are steps for the processing of OPT application
+"1. Apply for graduation in CatPAWS under the Student tab
+2. Pay the $100 OPT Processing fee and Get a passport style photo taken
+3. Create your myUSCIS account using PERSONAL email address and fill out the I-765 form for category c3B in the myUSCIS portal
+4. List U.S. mailing address where you want your EAD shipped, students often use the IIC: 800 University Dr, O.L. 108, Maryville, MO 64468
+5. Upload your photo, passport, visa, and I-94 in the correct places and Download the DRAFT I-765 from myUSCIS
+7. Go to the IIC Portal and start an Optional Practical Training Request and Choose an appropriate start date, the end date is a year later minus a day
+8. Fill out the questionnaires and upload the following documents: Upload you Draft I-765, passport style photo, I-94 Arrival Record, Passport, Visa, any previous CPT or OPT I-20’s, most recent I-20 pages 1 and 2 (make sure you signed it)
+10. Allow at least 14 business days for review. Once an advisor has reviewed your request in the IIC Portal and issued your OPT recommended I-20, you will receive an email to come pick it up.
+11. Upload your new (signed) I-20 to the myUSCIS portal and Review your application thoroughly!
+13. When you are ready, submit the $410 payment in myUSCIS. Once the payment is made, you have submitted your application to USCIS"
+
+"What is the 2024 Spring Commencement date?" : The spring 2024 commencement ceremony will be held at Bearcat Arena in Lamkin Activity Center on April 26 and on April 27.
+
+"What is the minimum required GRE score to get the admission?" : The minimum required GRE score to get the admission is 285.
+
+"What is the minimum required IELTS score to get the admission?" : The minimum required IELTS score to get the admission is 6.5 with no bands below 6.0.
+
+"What is the minimum required Duolingo score to get the admission" : The minimum required Duolingo score to get the admission is 110.
+
+"What is the minimum required TOEFL score to get the admission":  The minimum required TOEFL score to get the admission is 79.
