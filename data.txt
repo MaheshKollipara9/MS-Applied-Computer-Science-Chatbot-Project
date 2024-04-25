@@ -25,7 +25,7 @@
  
 	·         Official transcripts from all colleges and universities you have attended or are now attending for undergraduate and graduate coursework.
 
-"What are the choices for electives in the MS-ACS program?" : The MS-ACS program provides a selection of electives, including Analysis of Algorithms, Big Data, Data Visualization, Web Mining, and Machine Learning. Additionally, if a student chooses Mobile Computing: iOS as their required course, they have the option to take Mobile Computing: Android as an elective.     Note: Elective courses are subjected to change every semester.
+"What are the choices for electives in the MS-ACS program?" :   including Analysis of Algorithms, Big Data, Data Visualization, Web Mining, and Machine Learning. Additionally, if a student chooses Mobile Computing: iOS as their required course, they have the option to take Mobile Computing: Android as an elective.     Note: Elective courses are subjected to change every semester.
 
 "What the prerequisite requirements for joining the ACS course?" : If you haven't completed a \"Database Systems\" course during your undergraduate studies, it's a requirement for enrollment.
 
